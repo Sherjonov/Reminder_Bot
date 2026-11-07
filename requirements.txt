@@ -1,0 +1,5 @@
+aiogram>=3.25.0        # 3.25 dan boshlab rangli tugmalar (style) qo'llab-quvvatlanadi
+aiomysql>=0.3.0        # MySQL / MariaDB (asinxron)
+cryptography>=42.0.0   # MySQL 8 (caching_sha2_password) bilan ulanish uchun
+python-dotenv>=1.0.0   # .env faylini o'qish
+tzdata>=2024.1         # Windows'da vaqt mintaqalari (Asia/Tashkent) ishlashi uchun

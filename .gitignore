@@ -1,0 +1,16 @@
+# maxfiy ma'lumotlar
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# bot ishlashi natijasida paydo bo'ladiganlar
+data/backups/
+*.log
+
+# muharrirlar
+.idea/
+.vscode/
